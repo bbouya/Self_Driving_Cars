@@ -10,4 +10,3 @@ THIS IS THE CODE I Wrote during the self-driving car (no libraries) JAVASCRIPT
     7. Visualizing neural networks
     8. Optimizing neural networks 
     9. Fine-tuning
-    
